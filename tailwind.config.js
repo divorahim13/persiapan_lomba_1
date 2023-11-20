@@ -38,7 +38,7 @@ module.exports = {
       }
     },
     fontFamily: {
-      oswald: ['Oswand', 'sans-serif'],
+      oswald: ['Oswald', 'sans-serif'],
       dmsans: ['DM Sans', 'sans-serif']
     }
   },
